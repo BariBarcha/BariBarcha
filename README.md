@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bari Barcha</h1>
-<h3 align="center">I'm a RTO | WebApp PenTester</h3>
+<h3 align="center">I'm a RTO | Web | MalDev </h3>
 
 - 🔭 I’m currently working on **NetSec**
 
