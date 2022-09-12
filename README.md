@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://tryhackme.com/p/cod3z3ro" target="blank"><img align="center" src="https://tryhackme.com/img/favicon.png" alt="https://tryhackme.com/p/cod3z3ro" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/cod3z3ro" target="blank"> <img align="center" src="https://tryhackme.com/img/favicon.png" alt="https://tryhackme.com/p/cod3z3ro" height="30" width="40" />TryHackMe</a>
  
 </p> 
 
