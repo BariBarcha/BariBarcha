@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://tryhackme.com/p/cod3z3ro" target="blank"><img align="center" src="https://tryhackme.com/img/favicon.png" alt="https://tryhackme.com/p/cod3z3ro" height="30" width="40" /></a>
  
-// <a href="https://www.hackthissite.org/user/view/cod3z3ro/" target="blank"><img align="right" src=":https://data.htscdn.org/favicon/apple-touch-icon.png"alt="https://www.hackthissite.org/user/view/cod3z3ro/" height="30" width="40" /></a>
+<a href="https://www.hackthissite.org/user/view/cod3z3ro/" target="blank"><img align="right" src=":https://data.htscdn.org/favicon/apple-touch-icon.png"alt="https://www.hackthissite.org/user/view/cod3z3ro/" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
