@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://tryhackme.com/p/Cod3z3ro" target="blank"> <img align="center" src="https://tryhackme.com/img/favicon.png" alt="https://tryhackme.com/p/Cod3z3ro" height="30" width="40" />TryHackMe</a>
  
- <a href="https://www.hackthissite.org/user/view/Cod3z3ro/" target="blank"> <img align="center" src="https://data.htscdn.org/favicon/favicon-32x32.png" alt="Hack This Site!" height="30" width="40" />Hack This Site</a>
+ <a href="https://www.hackthissite.org/user/view/Cod3z3ro" target="blank"> <img align="center" src="https://data.htscdn.org/favicon/favicon-32x32.png" alt="Hack This Site!" height="30" width="40" />Hack This Site</a>
  
  
 </p> 
