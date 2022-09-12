@@ -15,6 +15,9 @@
 <p align="left">
 <a href="https://tryhackme.com/p/Cod3z3ro" target="blank"> <img align="center" src="https://tryhackme.com/img/favicon.png" alt="https://tryhackme.com/p/Cod3z3ro" height="30" width="40" />TryHackMe</a>
  
+ <a href="https://www.hackthissite.org/user/view/Cod3z3ro/" target="blank"> <img align="center" src="http://www.hackthissite.org/images/hts_80x15.gif" alt="Hack This Site!" height="30" width="40" />Hack This Site</a>
+ 
+ 
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
